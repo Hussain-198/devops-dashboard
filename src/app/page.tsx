@@ -43,7 +43,7 @@ export default function Home() {
       <header className="mb-12 flex items-center justify-between border-b border-gray-800 pb-6">
         <div>
           <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
-            DevOps CI/CD Dashboard
+            System Monitoring Dashboard
           </h1>
           <p className="text-gray-400 mt-2">System Monitoring & CI/CD Status</p>
         </div>
